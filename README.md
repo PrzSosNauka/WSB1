@@ -1,0 +1,2 @@
+Mój plik git
+
